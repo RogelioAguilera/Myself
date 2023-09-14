@@ -1,0 +1,43 @@
+---
+title: "RogelioAguileraBarberena"
+date: "9/13/2023"
+output: 
+  html_document:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+![](https://media.licdn.com/dms/image/D4E03AQECtxmbz9UkhA/profile-displayphoto-shrink_800_800/0/1689593895976?e=1700092800&v=beta&t=fPrN9_XZxB7Q56o23yEt5T-ECQ8Zjoml0wwbmg_Jl_U){width=30%}
+
+
+
+
+I am Rogelio, a future data scientist from the University of Texas at San Antonio, where I am currently a student planning to graduate in Fall 2023.
+
+## Academic Background
+
+- Associates of Science, Laredo College, Laredo, TX
+- B.S. Multidisciplinary Studies in Data Science, University of Texas at San Antonio, San Antonio, TX
+
+## Professional Background
+
+My only meaningful work experience was during an internship at ARCATEK (an import and export company), where I actively contributed to various office tasks, which provided me with valuable experience in a professional work environment. My key responsibilities included assisting with basic office tasks, where I showcased strong organizational skills and meticulous attention to detail. Additionally, I played a pivotal role in gathering data from the database and effectively organizing it in Excel. I utilized Excel functionalities such as VLOOKUP to manipulate and analyze data, ensuring precision and generating meaningful insights for the team. Collaborating with colleagues, I helped streamline data management processes, contributing to enhanced efficiency and data integrity within the organization. Throughout my internship, I maintained a proactive and eager-to-learn attitude, consistently seeking additional responsibilities and actively participating in team projects to drive success.
+
+## Experience in R
+
+Besisdes this class, I have only had one more class that dealt with R in my first semester at UTSA.
+
+## Experience with Other Analytic Software
+
+I used Excel in my only meaningful work experience, but I currently know in C and Python. I have used and at least know the basics in:
+
+- SAS
+- SQL
+
+Feel free to reach out if you have any questions or would like to connect!
+
+To learn more about me, you can visit my LinkedIn profile [here](https://www.linkedin.com/in/rogelio-aguilera-barberena-387135284/).
